@@ -53,7 +53,10 @@ python finetune/finetune_model_exc_qwen.py \
 
 A comprehensive evaluation tool for Information Retrieval tasks.
 
-**Main Script: `overall_eval/IR/cli.py`**
+- **Primary IR evaluation: `overall_eval/IR/cli.py`** 
+
+- Secondary classification evaluation: `overall_eval/Classification/`
+
 
 Evaluates embedding models and rerankers on the benchmark test dataset.
 
