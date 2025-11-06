@@ -138,5 +138,9 @@ python overall_eval/IR/cli.py \
 
 ---
 
+## ⚖️ License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Qing Dai University of Zurich, Paul Scherrer Institute, Switzerland
 
