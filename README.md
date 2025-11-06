@@ -12,8 +12,13 @@ This repository publishes a comprehensive benchmarking framework and dataset for
 
 This folder contains the high-quality benchmark datasets for training and testing IR models.
 
--   **`Test_data/`**: Contains `Filtered_Positive_Questions.xlsx` for IR evaluation.
--   **`Training_data/`**: Contains `total_training_data.xlsx` for fine-tuning models.
+- `Accel_IR_expert_golden_annotation.xlsx`: **`the primary golden dataset`**, the total 390 expert-annotated data entries.
+- `Accel_IR_augmented.xlsx`: the total 1357 data entries, including expert-annotated and **`LLM augmented hard negatives`**.
+
+ -   **`Test_data/`**:
+    - `IR_test_dataset.xlsx`: for IR evaluation.
+    - `Classification_test_dataset.xlsx`: for classification evaluation.
+-   **`Training_data/`**: `total_training_data.xlsx`: for fine-tuning models.
 
 ---
 
