@@ -2,6 +2,9 @@
 
 This repository publishes a comprehensive benchmarking framework and dataset for information retrieval (IR) in the accelerator physics domain. It includes annotated training and test datasets, tools for LLM-based annotation, model fine-tuning scripts, and an evaluation framework.
 
+## ⚙️ An Expert-Validated Data Generation Framework
+![data generation framework](data_generation_framework.png)
+
 ## ⚙️ Automated Annotation Pipeline
 
 ![Automated Annotation Pipeline](automated_pipeline.png)
