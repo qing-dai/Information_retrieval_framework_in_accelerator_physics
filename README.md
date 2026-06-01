@@ -8,6 +8,8 @@ This repository publishes a comprehensive benchmarking framework and dataset for
 
 📄 [Read the paper](https://seafile.ifi.uzh.ch/f/42c4897dbb074fdbac03/)
 
+[![Paper](https://img.shields.io/badge/Paper-PDF-blue)](https://seafile.ifi.uzh.ch/f/42c4897dbb074fdbac03/)
+
 ## ⚙️ An Expert-Validated Data Generation Framework
 ![data generation framework](data_generation_framework.png)
 
